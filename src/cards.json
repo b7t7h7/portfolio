@@ -3,14 +3,14 @@
         "row": [
             {
                 "projectTitle": "Password Generator",
-                "projectImage": "/React-Portfolio/assets/images/PasswordGenerator.PNG",
+                "projectImage": "/Portfolio/assets/images/PasswordGenerator.PNG",
                 "alt": "Password Generator Screenshot",
                 "deployedLink": "https://b7t7h7.github.io/homework3/",
                 "githubLink": "https://github.com/b7t7h7/homework3"
             },
             {
                 "projectTitle": "Coding Quiz",
-                "projectImage": "/React-Portfolio/assets/images/CodingQuizSS.PNG",
+                "projectImage": "/Portfolio/assets/images/CodingQuizSS.PNG",
                 "alt": "Coding Quiz Screenshot",
                 "deployedLink": "https://b7t7h7.github.io/homework4.4.2020/",
                 "githubLink": "https://github.com/b7t7h7/homework4.4.2020"
@@ -21,14 +21,14 @@
         "row": [
             {
                 "projectTitle": "Workday Planner",
-                "projectImage": "/React-Portfolio/assets/images/WorkDayPlanner.PNG",
+                "projectImage": "/Portfolio/assets/images/WorkDayPlanner.PNG",
                 "alt": "Workday Planner Screenshot",
                 "deployedLink": "https://b7t7h7.github.io/homework5/",
                 "githubLink": "https://github.com/b7t7h7/homework5"
             },
             {
                 "projectTitle": "Weather Dashboard",
-                "projectImage": "/React-Portfolio/assets/images/WeatherDashboard.PNG",
+                "projectImage": "/Portfolio/assets/images/WeatherDashboard.PNG",
                 "alt": "Weather Dashboard Screenshot",
                 "deployedLink": "https://b7t7h7.github.io/weather_dashboard/",
                 "githubLink": "https://github.com/b7t7h7/weather_dashboard"
@@ -39,14 +39,14 @@
         "row": [
             {
                 "projectTitle": "Giphtionary",
-                "projectImage": "/React-Portfolio/assets/images/GiphtionarySS.PNG",
+                "projectImage": "/Portfolio/assets/images/GiphtionarySS.PNG",
                 "alt": "Giphtionary Screenshot",
                 "deployedLink": "https://rachelhamiltonworks.github.io/giphtionary-beta/",
                 "githubLink": "https://github.com/RachelHamiltonWorks/giphtionary-beta"
             },
             {
                 "projectTitle": "Note Taker",
-                "projectImage": "/React-Portfolio/assets/images/NoteTaker.PNG",
+                "projectImage": "/Portfolio/assets/images/NoteTaker.PNG",
                 "alt": "Note Taker",
                 "deployedLink": "https://b7t7h7.github.io/NoteTaker/",
                 "githubLink": "https://github.com/b7t7h7/NoteTaker"
@@ -57,14 +57,14 @@
         "row": [
             {
                 "projectTitle": "Eat Da Burger",
-                "projectImage": "/React-Portfolio/assets/images/BurgerAppSS.PNG",
+                "projectImage": "/Portfolio/assets/images/BurgerAppSS.PNG",
                 "alt": "Burger App Screenshot",
                 "deployedLink": "#",
                 "githubLink": "https://github.com/b7t7h7/burger"
             },
             {
                 "projectTitle": "MyFoodFriend",
-                "projectImage": "/React-Portfolio/assets/images/MyFoodFriendSS.PNG",
+                "projectImage": "/Portfolio/assets/images/MyFoodFriendSS.PNG",
                 "alt": "MyFoodFriend Screenshot",
                 "deployedLink": "https://myfoodfriend.herokuapp.com/",
                 "githubLink": "https://github.com/Jones-M12/MyFoodFriend"
@@ -75,14 +75,14 @@
         "row": [
             {
                 "projectTitle": "Fitness Tracker",
-                "projectImage": "/React-Portfolio/assets/images/FitnessTrackerSS.PNG",
+                "projectImage": "/Portfolio/assets/images/FitnessTrackerSS.PNG",
                 "alt": "Fitness Tracker Screenshot",
                 "deployedLink": "https://b7t7h7.github.io/fitness_tracker/",
                 "githubLink": "https://github.com/b7t7h7/fitness_tracker"
             },
             {
                 "projectTitle": "NetFling",
-                "projectImage": "/React-Portfolio/assets/images/NetFling.PNG",
+                "projectImage": "/Portfolio/assets/images/NetFling.PNG",
                 "alt": "NetFling Screenshot",
                 "deployedLink": "https://netfling.herokuapp.com/",
                 "githubLink": "https://github.com/sidseal/project3"
