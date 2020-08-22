@@ -8,10 +8,10 @@ import PortfolioPg from "./pages/portfolio";
 
 function App() {
   return (
-    <Switch>
+    <HashRouter basename= "portfolio"><Switch>
       <Route exact path="/" component={AboutPg} />
       <Route exact path="/Portfolio" component={PortfolioPg} />
-    </Switch>
+    </Switch></HashRouter>
   );
 }
 
