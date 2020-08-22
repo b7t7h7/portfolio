@@ -17,6 +17,7 @@ function PortNav() {
             <Nav.Link href="https://github.com/b7t7h7" target="_blank">GitHub</Nav.Link>
             <Nav.Link href="https://www.linkedin.com/in/benjamin-huntley-ba628a1a9/" target="_blank">LinkedIn</Nav.Link>
             <Nav.Link href="/Portfolio/assets/Ben_Huntley_Resume.docx" target="_blank">Resume</Nav.Link>
+            {/* <Link to={{ pathname: "https://example.zendesk.com/hc/en-us/articles/123456789-Privacy-Policies" }} target="_blank" /> */}
           </Nav>
         </Navbar.Collapse>
       </Navbar>
