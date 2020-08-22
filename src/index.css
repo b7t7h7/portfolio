@@ -1,0 +1,214 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Portfolio CSS start */
+
+.parallax {
+    background-image: url("./assets/space.jpg");
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav.navbar {
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0;
+    background: rgba(21, 21, 133, 0.75);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    box-shadow: 0px 0px 10px white;
+    z-index: 1;
+}
+
+nav.navbar a {
+    color: white !important;
+}
+
+.image {
+    display:inline-block;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    box-shadow: 0px 0px 10px white;
+}
+
+#about {
+    margin-bottom: 110px;
+    display: block;
+}
+
+.card-header{
+    color:white;
+    padding: 15px;
+    font-weight: bold;
+    font-size: larger;
+    background: rgba(21, 21, 133, 0.8) !important;
+}
+
+.card-header:first-child {
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.card{
+    margin-bottom: 100px;
+    /* box-shadow: 15px 15px 5px -5px hsla(0, 0%, 60.8%, .45); */
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 850px;
+}
+
+.card-body {
+    /* border-top: solid darkblue 1px; */
+    margin-top: 5px;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    background-color: white;
+}
+
+.portfolio-card .card-body {
+    border-radius: 0 !important;
+}
+
+.card-footer {
+    /* border-top: solid darkblue 1px; */
+    margin-top: 5px;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    background-color: white !important;
+    text-align: left;
+}
+
+.card-footer:last-child {
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+
+/* .container header{
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: darkblue; 
+} */
+
+h1 {
+    color: white;
+}
+
+.pageFooter{
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-top: 1px solid white;
+    box-shadow: 0px 0px 10px white;
+    background: rgba(21, 21, 133, 0.75);
+}
+
+section {
+    cursor: default;
+}
+
+.glowBox {
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px white;
+}
+
+.bio-card, .quote-card {
+    text-align: center;
+    font-weight: bold;
+    max-width: 850px;
+    width: 70%;
+}
+
+.portfolio-header {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    box-shadow: 0px 0px 10px white;
+    padding: 5px;
+    margin-top: 110px;
+    margin-bottom: 100px;
+    background: rgba(21, 21, 133, 0.75) !important;
+    display: inline-block;
+    width: 100%;
+}
+
+.portfolio-card {
+    max-width: 350px !important;
+    padding: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.portfolio-card .card-header {
+    color:white;
+    padding: 15px;
+    font-weight: bold;
+    font-size: larger;
+    background: rgba(21, 21, 133, .75) !important;
+}
+
+.portfolio-card img{
+    width: 100%;
+    box-shadow: 3px 3px 10px darkblue;
+
+}
+
+.card-body.glowBox {
+    padding: 15px;
+}
+
+.card-footer a:last-child {
+    float: right;
+}
+
+.pageBottom {
+    margin-bottom: 150px;
+    display: inline-block !important;
+}
+
+a.card-text {
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px darkblue;
+    padding: 10px;
+    display: inline-block;
+    color: darkblue;
+}
+
+a.card-text:hover {
+    text-decoration: none;
+    box-shadow: 0px 0px 5px darkblue;
+    background: rgba(255, 182, 0, .8);
+}
