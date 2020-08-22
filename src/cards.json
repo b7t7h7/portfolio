@@ -3,7 +3,7 @@
         "row": [
             {
                 "projectTitle": "Password Generator",
-                "projectImage": "/Portfolio/assets/images/PasswordGenerator.PNG",
+                "projectImage": "/portfolio/public/assets/images/PasswordGenerator.PNG",
                 "alt": "Password Generator Screenshot",
                 "deployedLink": "https://b7t7h7.github.io/homework3/",
                 "githubLink": "https://github.com/b7t7h7/homework3"
