@@ -16,7 +16,7 @@ function PortNav() {
             <Link to="/Portfolio/">Portfolio</Link>
             <Nav.Link href="https://github.com/b7t7h7" target="_blank">GitHub</Nav.Link>
             <Nav.Link href="https://www.linkedin.com/in/benjamin-huntley-ba628a1a9/" target="_blank">LinkedIn</Nav.Link>
-            <Nav.Link href="/React-Portfolio/assets/Ben_Huntley_Resume.docx" target="_blank">Resume</Nav.Link>
+            <Nav.Link href="/Portfolio/assets/Ben_Huntley_Resume.docx" target="_blank">Resume</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
