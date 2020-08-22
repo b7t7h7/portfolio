@@ -1,6 +1,6 @@
-## Portfolio
+# Portfolio
 
-# Contact Information
+## Contact Information
 ​
 * Name: Benjamin Huntley
 * Github: [b7t7h7](https://github.com/b7t7h7)
